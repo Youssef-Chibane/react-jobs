@@ -5,7 +5,7 @@ import HomeCards from "./components/HomeCards";
 import JobListings from "./components/JobListings";
 import ViewAllJobs from "./components/ViewAllJobs";
 
-export default function App() {
+const App = () => {
   return (
     <>
       <NavBar />
@@ -15,4 +15,4 @@ export default function App() {
       <ViewAllJobs />
     </>
   );
-}
+};
