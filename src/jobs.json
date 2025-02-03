@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "622d",
+      "title": "Test Job 1",
+      "type": "Remote",
+      "location": "Casablanca MA",
+      "description": "this is test job 1 desciption",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Chibane",
+        "description": "this is chibane's company description",
+        "contactEmail": "youssef@gmail.com",
+        "contactPhone": "555-555-555"
+      }
     }
   ]
 }
